@@ -30,10 +30,12 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.address {
+  font-style: normal;
+}
 .address .link {
   font-weight: 400;
   font-size: 16px;
-  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -91,7 +93,7 @@ ul {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team .image {
+.team .team-image {
   background-color: #ffffff;
 }
 .team .team-name {
